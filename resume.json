@@ -1,12 +1,12 @@
 {
   "data_lang": "zh-CN",
   "ga_id": "UA-63818301-2",
-  "resume_title": "张龙徳 - 个人简历",
-  "name": "张龙德",
+  "resume_title": "王明生 - 个人简历",
+  "name": "王明生",
   "repo": "https://github.com/zhanglongde",
   "job_description": ["前端工程师", "软件工程师"],
   "contact": {
-    "email": "zhanglongde314@gmail.com",
+    "email": "ms.wang666@gmail.com",
     "wechat": {
       "id": "zhang_longde",
       "qrcode": "static/wechat.png"
@@ -16,15 +16,15 @@
       "url": "http://weibo.com/1660806900"
     },
     "github": {
-      "id": "zhanglongde"
+      "id": "wangmingsheng"
     },
     "blog": {
-      "url": "http://zhanglongde.github.io"
+      "url": "http://wangmingsheng.github.io"
     }
   },
   "links": [{
     "type": "repo",
-    "url": "https://github.com/zhanglongde/resume"
+    "url": "https://github.com/wangmingsheng/resume"
 
   }, {
     "type": "pdf",
@@ -44,60 +44,56 @@
     "start": "2009",
     "end": "2013",
     "honor": [
-      "2009 - 2010 学年度校**一等奖学金**",
-      "2010 - 2011 学年度校**二等奖学金**",
-      "2011 - 2012 学年度校**二等奖学金**",
-      "2012 - 2013 学年度校**一等奖学金**"
+      "2009 - 2010 学年度校**三等奖学金**"
     ]
   }],
   "language": [{
     "type": "english",
     "certificate": [
       {
-      "type": "CET-6",
+      "type": "CET-4",
       "full": "",
       "score": ""
     }],
     "description": [
       "能流畅阅读英文专业书籍、文档及其他资料",
-      "可无字幕观看 MOOC 课程、开发者大会视频",
       "能够在英文邮件列表、Stack Overflow 等社区正常交流"
     ]
   }],
   "experience": [{
     "type": "internship",
     "techtype": "frontend",
-    "place": "上海晓兴谷 前端开发组",
-    "start": "2016.03",
+    "place": "上海米领信息科技有限公司 前端开发组",
+    "start": "2016.07",
     "end": "至今",
     "name": "前端开发 后端开发",
     "description": [
-      "基于bootstrap的七桥门户网站"
+      "公司产品"
     ],
-    "stack": ["bootstrap", "jquery", "jruby on rails"],
+    "stack": ["react", "jquery&zepto", "webpack"],
     "compatibility": "IE8+"
   },{ "type": "internship",
     "techtype": "frontend",
-    "place": "上海晓兴谷 移动开发组",
-    "start": "2016.04",
-    "end": "至今",
+    "place": "上海天畅信息 移动开发组",
+    "start": "2015.01",
+    "end": "2016.07",
     "name": "前端开发",
     "description": [
-    "基于WEUI的七桥门户微信端"
+    "南京银行电子信息系统移动端"
     ],
-    "stack": ["bootstrap", "weui", "less"],
+    "stack": ["原生js", "zepto", "混合开发"],
     "compatibility": "X5"
     }, {
       "type": "internship",
       "techtype": "nodejs",
-      "place": "新大陆通信 海外研发部",
+      "place": "福建联迪商用设备有限公司 新兴应用研发部",
       "start": "2013.07",
       "end": "2014.06",
-      "name": "基于Android的STB开发",
+      "name": "c/c++ pos机应用开发",
       "description": [
-        "机顶盒网页开发"
+        "银行pos机应用开发"
       ],
-      "stack": ["C/C++", "android", "html/css"]
+      "stack": ["C/C++", "linux", "html/css"]
     }, {
       "type": "project",
       "techtype": "frontend",
