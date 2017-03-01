@@ -63,15 +63,15 @@
   "experience": [{
     "type": "internship",
     "techtype": "frontend",
-    "place": "上海米领信息科技有限公司 前端开发组",
+    "place": "上海米领通信科技有限公司 前端开发组",
     "start": "2016.07",
     "end": "至今",
-    "name": "前端开发 后端开发",
+    "name": "前端开发",
     "description": [
-      "公司产品"
+      "在公司就职前端开发岗位，参与了公司门户网站、公司内部产品云呼叫中心的前端开发等。主要用React框架。"
     ],
     "stack": ["react", "jquery&zepto", "webpack"],
-    "compatibility": "IE8+"
+    "compatibility": "IE6+"
   },{ "type": "internship",
     "techtype": "frontend",
     "place": "上海天畅信息 移动开发组",
@@ -79,19 +79,19 @@
     "end": "2016.07",
     "name": "前端开发",
     "description": [
-    "南京银行电子信息系统移动端"
+    "在该公司从事前端开发岗位，参与了公司内部OA系统、门户网站、南京银行电子信息系统移动端等前端开发设计。主要工作内容有：1.了解项目需求，根据业务需求制定前端实现的大体框架；2.实现前端页面效果；3.负责和后端定接口和调试接口；4.写js实现前端功能模块。"
     ],
-    "stack": ["原生js", "zepto", "混合开发"],
-    "compatibility": "X5"
+    "stack": ["原生js", "jquery&zepto", "rem&flex", "混合开发"],
+    "compatibility": "ie6+"
     }, {
       "type": "internship",
-      "techtype": "nodejs",
+      "techtype": "frontend",
       "place": "福建联迪商用设备有限公司 新兴应用研发部",
       "start": "2013.07",
-      "end": "2014.06",
-      "name": "c/c++ pos机应用开发",
+      "end": "2014.10",
+      "name": "c/c++ 银联支付应用开发",
       "description": [
-        "银行pos机应用开发"
+        "c/c++ 银联支付应用开发，主要从事开发和维护银联pos机终端应用项目。"
       ],
       "stack": ["C/C++", "linux", "html/css"]
     }, {
@@ -99,12 +99,12 @@
       "techtype": "frontend",
       "project_type": "personal",
       "name": "鞋业产品质量管理系统",
-      "source": "https://github.com/zhanglongde/GraduationProject",
+      "source": "http://3w.9086.cn",
       "description": [
-        "该项目是一套制鞋的产品质量系统，它将Android手机终端作为采集质量数据的终端，以软硬件裁剪的专门嵌入式设备作为数据库服务器，采用便于质量数据展示和分析的网页客户端，以及适合嵌入式开发的便于移植的SQLite3数据库。   本系统以手机客户端、数据库服务器和网页客户端作为整体架构，实现现的关键技术主要包括多线程技术、IO多路复用技术、SQLite数据库技术、Socket通信技术以及Web技术。"
+        "该项目是个门户网站。详情请看 http://3w.9086.cn"
       ],
-      "stack": ["C/C++", "sqlite", "html/css"],
-      "compatibility": "STB Browser"
+      "stack": ["html/css"],
+      "compatibility": "ie6+"
     }, {
       "type": "project",
       "techtype": "frontend",
